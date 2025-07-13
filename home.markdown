@@ -1,6 +1,7 @@
 ---
 title: Home
 date: 2025-07-13 20:11:00 +01:00
+permalink: "/"
 ---
 
 <h1 align="center">Personal Codeberg Blog John Krebian</h1>
