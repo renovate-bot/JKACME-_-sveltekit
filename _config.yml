@@ -2,9 +2,6 @@
 title: Personal Blog
 timezone: Europe/London
 collections:
-  people:
-    title: People
-    output: true
   posts:
     title: Posts
     output: true
