@@ -5,9 +5,10 @@ collections:
   posts:
     title: Posts
     output: true
-  projects:
+  github:
     title: Projects
     output: true
+    permalink: "/projects"
   uploads:
     title: Uploads
     output: true
