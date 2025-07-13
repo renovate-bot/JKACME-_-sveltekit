@@ -1,6 +1,6 @@
 ---
-title: Sveltekit
-timezone: UTC
+title: Personal Blog
+timezone: Europe/London
 collections:
   posts:
     title: Posts
